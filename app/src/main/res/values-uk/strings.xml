@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Свинка П дитячий лiхтарик</string>
+    <string name="error">Помилка</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="Ok">Ok</string>
+    <string name="error_camera_not_suported">Камера не підтримується</string>
+</resources>
